@@ -1,0 +1,30 @@
+{
+  "name": "typescript_playground",
+  "version": "1.0.0",
+  "description": "***",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "undici-types": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalculusSlayer/typescript_playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CalculusSlayer/typescript_playground/issues"
+  },
+  "homepage": "https://github.com/CalculusSlayer/typescript_playground#readme"
+}
